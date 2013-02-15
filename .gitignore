@@ -1,0 +1,7 @@
+/.idea
+/generated
+/config
+*.swp
+bin
+.bundle
+*~
